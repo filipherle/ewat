@@ -12,7 +12,9 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |
     +--Wireless Attacks
     |    +--
-    |       |- bruteforce - bruteforce vulnerable SSH server
+    |       | - Scan for networks in range
+    |       |  
+    |       | - Run a phishing page
     |
     +--Social Eningeering Attacks
     |     +--
