@@ -14,7 +14,11 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |    +--
     |       | - Scan for networks in range
     |       |  
-    |       | - Run a phishing page
+    |       | - Net Tools
+    |       |  
+    |       | - Website Port Scanner
+    |       |  
+    |       | - Active Connections Viewer
     |
     +--Social Eningeering Attacks
     |     +--
@@ -22,7 +26,7 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |        |
     |        | - Make a Fake AP
     |        |
-    |        | - Make a Fake AP
+    |        | - 
     |
     +--Settings
     |      +--
@@ -36,8 +40,6 @@ If you have any issues regarding the source code of this framework, as well as a
     Email: toxicnull@gmail.com
     Instagram: @_t0x1c
     Twitter: @toxicnull
-
-
 
 
 
