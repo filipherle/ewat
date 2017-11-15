@@ -20,6 +20,8 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |       |  
     |       | - Active Connections Viewer
     |
+    |       | - ?
+    |
     +--Social Eningeering Attacks
     |     +--
     |        | - Run a phishing page 
@@ -28,7 +30,7 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |        |
     |        | - 
     |
-    +--Settings
+    +--Other
     |      +--
     |         | - ?
 
@@ -40,9 +42,6 @@ If you have any issues regarding the source code of this framework, as well as a
     Email: toxicnull@gmail.com
     Instagram: @_t0x1c
     Twitter: @toxicnull
-
-
-
 
 
 
