@@ -1,5 +1,5 @@
 # EWAT
-
+<p align="center"><img src="https://wifiphisher.github.io/wifiphisher/wifiphisher.png" /></p>
 # Introduction
 
 Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.
