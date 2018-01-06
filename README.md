@@ -1,5 +1,5 @@
 # EWAT
-<p align="center"><img src="logo.png"  HEIGHT="800" WIDTH="800" BORDER="0"/></p>
+<p align="center"><img src="logo.png"  HEIGHT="300" WIDTH="300" BORDER="0"/></p>
 # Introduction
 
 Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.
