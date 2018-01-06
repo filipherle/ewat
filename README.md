@@ -1,5 +1,5 @@
 # EWAT
-<p align="center"><img src="other/logo.png" /></p>
+<p align="center"><img src="logo.png" /></p>
 # Introduction
 
 Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.
@@ -19,7 +19,7 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |       | - Website Port Scanner
     |       |  
     |       | - Active Connections Viewer
-    |
+    |       |
     |       | - ?
     |
     +--Social Eningeering Attacks
@@ -31,8 +31,13 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |        | - 
     |
     +--Other
-    |      +--
-    |         | - ?
+    |     +--
+    |        | - ?
+    |        |
+    |        | - ?
+    |        |
+    |        | - ?
+    |        |
 
 
 
