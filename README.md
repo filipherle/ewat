@@ -5,7 +5,8 @@ Social engineering, in the context of information security, refers to psychologi
 
 I created this project in order to make it easier for IT's and security experts to gather information and pentest.
 
-In order to install this program, it is best that you are on a __Linux-based__ distro, preferably __Kali-Linux__.
+In order to install this program, it is crucial that you are on a __Linux-based__ distro, preferably __Kali-Linux__ or __Linux-Mint__.
+
 
     main
     |
@@ -38,15 +39,25 @@ In order to install this program, it is best that you are on a __Linux-based__ d
     |        | - ?
     |        |
 
+## Installation & Usage
 
+First, `git clone`.
 
-If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
+    git clone https://github.com/toxic-ig/ewat.git
 
-    Xmpp: toxic-ig@exploit.im
-    Email: toxicnull@gmail.com
-    Instagram: @_t0x1c
-    Twitter: @toxicnull
+Change directory, and then run the installer script (Must be root or have superuser permissions):
 
+    cd ewat
+    sudo python EWAT.py
+
+EWAT will install of the necessary dependencies for you. Other platforms will be supported in the future.
+
+Once finished, execute with:
+
+    ewat
+
+### Donations?
+#### www.paypal.me/toxicnull
 
 
 
