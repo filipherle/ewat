@@ -56,10 +56,5 @@ Once finished, execute with:
 
     ewat
 
-### Donations?
-#### www.paypal.me/toxicnull
-
-
-
-# Donations?
+### Donations? Buy me a coffee!
 #### www.paypal.me/toxicnull
