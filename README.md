@@ -55,6 +55,8 @@ EWAT will install of the necessary dependencies for you. Other platforms will be
 Once finished, execute with:
 
     ewat
-
+    
+## To-Do List
+- google dorker
 ### Donations? Buy me a coffee!
 #### www.paypal.me/toxicnull
