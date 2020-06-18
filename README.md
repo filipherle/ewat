@@ -43,11 +43,11 @@ In order to install this program, it is crucial that you are on a __Linux-based_
 
 First, `git clone`.
 
-    git clone https://github.com/toxic-ig/ewat.git
+    git clone https://github.com/toxic-ig/ewat
 
 Change directory, and then run the installer script (Must be root or have superuser permissions):
 
-    cd ewat
+    cd path/to/ewat
     sudo python EWAT.py
 
 EWAT will install of the necessary dependencies for you. Other platforms will be supported in the future.
@@ -58,5 +58,6 @@ Once finished, execute with:
     
 ## To-Do List
 - google dorker
+- run a phishing AP
 ### Donations? Buy me a coffee!
 #### www.paypal.me/toxicnull
