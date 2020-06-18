@@ -1,4 +1,4 @@
-# EWAT
+# EWAT - The hacker's toolkit
 # Introduction
 
 Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.
@@ -6,38 +6,6 @@ Social engineering, in the context of information security, refers to psychologi
 I created this project in order to make it easier for IT's and security experts to gather information and pentest.
 
 In order to install this program, it is crucial that you are on a __Linux-based__ distro, preferably __Kali-Linux__ or __Linux-Mint__.
-
-
-    main
-    |
-    +--Wireless Attacks
-    |    +--
-    |       | - Scan for networks in range
-    |       |  
-    |       | - Net Tools
-    |       |  
-    |       | - Website Port Scanner
-    |       |  
-    |       | - Active Connections Viewer
-    |       |
-    |       | - ?
-    |
-    +--Social Eningeering Attacks
-    |     +--
-    |        | - Run a phishing page 
-    |        |
-    |        | - Make a Fake AP
-    |        |
-    |        | - 
-    |
-    +--Other
-    |     +--
-    |        | - ?
-    |        |
-    |        | - ?
-    |        |
-    |        | - ?
-    |        |
 
 ## Installation & Usage
 
