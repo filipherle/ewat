@@ -11,7 +11,7 @@ In order to install this program, it is crucial that you are on a __Linux-based_
 
 First, `git clone`.
 
-    git clone https://github.com/toxic-ig/ewat
+    git clone https://github.com/filipherle/ewat
 
 Change directory, and then run the installer script (Must be root or have superuser permissions):
 
