@@ -1,0 +1,14 @@
+#!/bin/sh
+
+echo -n "Do you really want to uninstall EWAT and all of its components? (y/n): "
+read answer
+
+if [ "$answer" != "${answer#[Yy]}" ] ;then
+    echo Deleting...
+    sudo rm /usr/local/bin/ewat
+    sudo rm -rf /opt/ewat
+    echo Done! Goodbye.
+else
+    echo Exiting...
+fi
+#sudo rm /usr/local/bin/ewat_uninstall

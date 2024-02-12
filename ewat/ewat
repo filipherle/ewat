@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /opt/ewat
+sudo python EWAT.py
