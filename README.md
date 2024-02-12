@@ -15,8 +15,8 @@ First, `git clone`.
 
 Change directory, and then run the installer script (Must be root or have superuser permissions):
 
-    cd path/to/ewat
-    sudo python EWAT.py
+    cd ewat/
+    sudo python3 EWAT.py
 
 EWAT will install of the necessary dependencies for you. Other platforms will be supported in the future.
 
@@ -26,6 +26,7 @@ Once finished, execute with:
     
 ## To-Do List
 - google dorker
-- run a phishing AP
+- create phishing AP
+- add macOSX support
 ### Donations? Buy me a coffee!
 #### www.paypal.me/toxicnull
