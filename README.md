@@ -13,16 +13,12 @@ First, `git clone`.
 
     git clone https://github.com/filipherle/ewat
 
-Change directory, and then run the installer script (Must be root or have superuser permissions):
+Change directory, and then run the program (Must be root or have superuser permissions):
 
     cd ewat/
     sudo python3 EWAT.py
 
 EWAT will install of the necessary dependencies for you. Other platforms will be supported in the future.
-
-Once finished, execute with:
-
-    ewat
     
 ## To-Do List
 - google dorker
